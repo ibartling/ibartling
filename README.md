@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibartling
 - 👀 I’m interested in all things front-end web development, fantasy novels, and eating all the sweets.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript. Oh, and how to play the ukulele and piano.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript. Oh, and how to play the ukulele.
 - 📫 How to reach me ... send me a message on <a href="https://www.linkedin.com/in/isabel-bartling" target="_blank">Linkedin </a>.
 
 <!---
